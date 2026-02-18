@@ -103,14 +103,6 @@ Contributed to a multi-service calendar application with new features and perfor
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanLee1217&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanLee1217&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
