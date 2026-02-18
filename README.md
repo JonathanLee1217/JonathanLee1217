@@ -103,8 +103,6 @@ Contributed to a multi-service calendar application with new features and perfor
 
 ---
 
-</div>
-
 ---
 
 <div align="center">
