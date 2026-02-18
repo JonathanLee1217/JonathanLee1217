@@ -61,50 +61,6 @@ I'm a full-stack software engineer with a passion for building **AI-powered prod
 
 ---
 
-### 📂 Experiences
-
-#### 🤖 Multi-Agent Stock Trend Predictor
-> `Python` · `PyTorch` · `FastAPI` · `React` · `Azure DevOps`
-
-Led a 4-person team to architect a full-stack AI platform using **LSTM neural networks** and a **multi-agent Claude backbone** that coordinates live data fetching (Yahoo Finance) and automated report generation.
-- 📈 Achieved **50% directional accuracy** on historical stock datasets via iterative hyperparameter tuning
-- ⚙️ Built MLOps pipeline on Azure DevOps reducing manual intervention by **20%**
-- 🚀 Delivered full platform **2 weeks ahead** of the 5-month timeline
-
----
-
-#### 🎮 AI-Enhanced Pac-Man
-> `Python` · `PyTorch`
-
-Engineered an advanced AI decision system for Pac-Man using search and adversarial algorithms.
-- 🔍 Implemented A*, Minimax, Alpha-Beta Pruning, and Expectimax algorithms
-- ⚡ Improved AI gameplay performance by **30%** in average completion time
-- ✅ Achieved **95% success rate** in complex game scenarios
-
----
-
-#### 🌿 FloraHeal — Plant Care Portal
-> `PostgreSQL` · `React.js` · `Flask` · `Microsoft Azure`
-
-Built a full-stack interactive plant disease management portal in a 5-person team.
-- 🐛 Triaged and resolved **20 production bugs** within 30 days
-- 🏎️ Optimized DB queries achieving **50ms reduction** in average response time
-- ☁️ Azure deployment with **99.9% uptime**
-
----
-
-#### 📅 Calendar Services Web App
-> `C` · `React.js` · `Azure DevOps`
-
-Contributed to a multi-service calendar application with new features and performance optimizations.
-- ⚡ Reduced page load time by **30%** via front-end re-architecture
-- 🗓️ Shipped Gregorian-to-Chinese Lunar conversion driving **15% increase** in user engagement
-- 🤖 Automated file classification with regex, saving **4 hours/week** of manual work
-
----
-
----
-
 <div align="center">
 
 💬 Always open to collaborating on AI-integrated apps, full-stack systems, or anything interesting!
