@@ -61,7 +61,7 @@ I'm a full-stack software engineer with a passion for building **AI-powered prod
 
 ---
 
-### 📂 Featured Projects
+### 📂 Experiences
 
 #### 🤖 Multi-Agent Stock Trend Predictor
 > `Python` · `PyTorch` · `FastAPI` · `React` · `Azure DevOps`
